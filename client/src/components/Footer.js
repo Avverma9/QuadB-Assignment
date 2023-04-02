@@ -8,7 +8,7 @@ export class Footer extends  Component {
     }
 
     render() {
-        return(
+        return
 <div class="footer">
             <div className="d-flex align-items-center text-center">
                 <div className="footer-text">Copyright © 2023</div>
